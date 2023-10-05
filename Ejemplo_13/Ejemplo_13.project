@@ -93,12 +93,8 @@
     </Configuration>
   </Settings>
   <VirtualDirectory Name="src">
-    <VirtualDirectory Name="Source Files">
-      <File Name="../Documents/Persona.cpp"/>
-    </VirtualDirectory>
-    <VirtualDirectory Name="Header Files">
-      <File Name="../Documents/Persona.hpp"/>
-    </VirtualDirectory>
     <File Name="main.cpp"/>
   </VirtualDirectory>
+  <Dependencies Name="Debug"/>
+  <Dependencies Name="Release"/>
 </CodeLite_Project>
