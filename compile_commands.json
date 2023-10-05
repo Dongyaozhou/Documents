@@ -1,23 +1,75 @@
 [{
-  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_10\\main.cpp",
-  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_10",
-  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_10\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_10\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas\\NodoPila.hpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas\\NodoPila.hpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas\\NodoPila.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_11\\main.cpp",
-  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_11",
-  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_11\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_11\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas\\clasePila.hpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas\\clasePila.hpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas\\clasePila.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas\\NodoPila.cpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas\\NodoPila.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas\\NodoPila.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas\\clasePila.cpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas\\clasePila.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas\\clasePila.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas\\main.cpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Pilas\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_13\\h Persona.hpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_13",
+  "command": "C:/msys64/clang64/bin/g++.exe -c \"C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_13\\h Persona.hpp\" -o \"C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_13\\h Persona.hpp\".o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_13\\Persona.cpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_13",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_13\\Persona.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_13\\Persona.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_13\\main.cpp",
   "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_13",
   "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_13\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_13\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_12\\main.cpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_12",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_12\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_12\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_11\\main.cpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_11",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_11\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_11\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Documents\\main.cpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Documents",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Documents\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Documents\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "C:\\Users\\dongyao\\Documents\\Documents\\Paso_de_argumentos\\main.cpp",
   "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Paso_de_argumentos",
   "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Paso_de_argumentos\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Paso_de_argumentos\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_09\\main.cpp",
-  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_09",
-  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_09\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_09\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Paso_Por_Referencia\\main.cpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Paso_Por_Referencia",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Paso_Por_Referencia\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Paso_Por_Referencia\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_05\\main.cpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_05",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_05\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_05\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_08\\main.cpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_08",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_08\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_08\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_10\\main.cpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_10",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_10\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_10\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_07\\main.cpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_07",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_07\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_07\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_06\\main.cpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_06",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_06\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_06\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_03\\main.cpp",
   "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_03",
@@ -27,19 +79,35 @@
   "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_02",
   "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_02\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_02\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_12\\main.cpp",
-  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_12",
-  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_12\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_12\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola\\NodoCola.hpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola\\NodoCola.hpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola\\NodoCola.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola\\main.cpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola\\Cola.hpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola\\Cola.hpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola\\Cola.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola\\NodoCola.cpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola\\NodoCola.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola\\NodoCola.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola\\Cola.cpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola\\Cola.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_Cola\\Cola.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_04\\main.cpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_04",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_04\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_04\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_09\\main.cpp",
+  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_09",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_09\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_09\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_01\\main.cpp",
   "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_01",
   "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_01\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Ejemplo_01\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Paso_Por_Referencia\\main.cpp",
-  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Paso_Por_Referencia",
-  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Paso_Por_Referencia\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Paso_Por_Referencia\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "C:\\Users\\dongyao\\Documents\\Documents\\Documents\\main.cpp",
-  "directory": "C:\\Users\\dongyao\\Documents\\Documents\\Documents",
-  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\Documents\\Documents\\Documents\\main.cpp -o C:\\Users\\dongyao\\Documents\\Documents\\Documents\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }]

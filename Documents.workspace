@@ -5,16 +5,15 @@
     <Project Name="Ejemplo_1" Path="Ejemplo_01/Ejemplo_01.project" Active="No"/>
     <Project Name="Ejemplo_2" Path="Ejemplo_02/Ejemplo_02.project" Active="No"/>
     <Project Name="Ejemplo_3" Path="Ejemplo_03/Ejemplo_03.project" Active="No"/>
-    <Project Name="Ejemplo_4" Path="Ejemplo_04/Ejemplo_04.project" Active="Yes"/>
-    <Project Name="Ejemplo_5" Path="Ejemplo_05/Ejemplo_05.project"/>
-    <Project Name="Ejemplo_6" Path="Ejemplo_06/Ejemplo_06.project"/>
-    <Project Name="Ejemplo_7" Path="Ejemplo_07/Ejemplo_07.project"/>
-    <Project Name="Ejemplo_8" Path="Ejemplo_08/Ejemplo_08.project"/>
+    <Project Name="Ejemplo_4" Path="Ejemplo_04/Ejemplo_04.project" Active="No"/>
+    <Project Name="Ejemplo_5" Path="Ejemplo_05/Ejemplo_05.project" Active="No"/>
+    <Project Name="Ejemplo_6" Path="Ejemplo_06/Ejemplo_06.project" Active="No"/>
+    <Project Name="Ejemplo_7" Path="Ejemplo_07/Ejemplo_07.project" Active="No"/>
+    <Project Name="Ejemplo_8" Path="Ejemplo_08/Ejemplo_08.project" Active="No"/>
   </VirtualDirectory>
   <VirtualDirectory Name="Ejemplo_sesion_2">
     <Project Name="Paso_Por_Referencia" Path="Paso_Por_Referencia/Paso_Por_Referencia.project" Active="No"/>
     <Project Name="Paso_de_argumentos" Path="Paso_de_argumentos/Paso_de_argumentos.project" Active="No"/>
-    <Project Name="Ejemplo_13" Path="Ejemplo_13/Ejemplo_13.project" Active="No"/>
     <Project Name="Ejemplo_09" Path="Ejemplo_09/Ejemplo_09.project" Active="No"/>
     <Project Name="Ejemplo_10" Path="Ejemplo_10/Ejemplo_10.project" Active="No"/>
     <Project Name="Ejemplo_11" Path="Ejemplo_11/Ejemplo_11.project" Active="No"/>
@@ -22,6 +21,9 @@
   </VirtualDirectory>
   <VirtualDirectory Name="Ejemplo_sesion_3">
     <Project Name="Ejemplo_13" Path="Ejemplo_13/Ejemplo_13.project" Active="No"/>
+    <Project Name="Ejemplo_13" Path="Ejemplo_13/Ejemplo_13.project" Active="No"/>
+    <Project Name="Ejemplo_Pilas" Path="Ejemplo_Pilas/Ejemplo_Pilas.project" Active="No"/>
+    <Project Name="Ejemplo_Cola" Path="Ejemplo_Cola/Ejemplo_Cola.project" Active="Yes"/>
   </VirtualDirectory>
   <Project Name="Ejemplo_02" Path="Ejemplo_02/Ejemplo_02.project" Active="No"/>
   <BuildMatrix>
@@ -33,7 +35,6 @@
       <Project Name="Ejemplo_04" ConfigName="Debug"/>
       <Project Name="Paso_Por_Referencia" ConfigName="Debug"/>
       <Project Name="Paso_de_argumentos" ConfigName="Debug"/>
-      <Project Name="Ejemplo_13" ConfigName="Debug"/>
       <Project Name="Ejemplo_05" ConfigName="Debug"/>
       <Project Name="Ejemplo_06" ConfigName="Debug"/>
       <Project Name="Ejemplo_07" ConfigName="Debug"/>
@@ -53,6 +54,9 @@
       <Project Name="Ejemplo_06" ConfigName="Debug"/>
       <Project Name="Ejemplo_07" ConfigName="Debug"/>
       <Project Name="Ejemplo_08" ConfigName="Debug"/>
+      <Project Name="Ejemplo_13" ConfigName="Debug"/>
+      <Project Name="Ejemplo_Pilas" ConfigName="Debug"/>
+      <Project Name="Ejemplo_Cola" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -62,7 +66,6 @@
       <Project Name="Ejemplo_04" ConfigName="Release"/>
       <Project Name="Paso_Por_Referencia" ConfigName="Release"/>
       <Project Name="Paso_de_argumentos" ConfigName="Release"/>
-      <Project Name="Ejemplo_13" ConfigName="Release"/>
       <Project Name="Ejemplo_05" ConfigName="Release"/>
       <Project Name="Ejemplo_06" ConfigName="Release"/>
       <Project Name="Ejemplo_07" ConfigName="Release"/>
@@ -82,6 +85,9 @@
       <Project Name="Ejemplo_06" ConfigName="Release"/>
       <Project Name="Ejemplo_07" ConfigName="Release"/>
       <Project Name="Ejemplo_08" ConfigName="Release"/>
+      <Project Name="Ejemplo_13" ConfigName="Release"/>
+      <Project Name="Ejemplo_Pilas" ConfigName="Release"/>
+      <Project Name="Ejemplo_Cola" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

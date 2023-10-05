@@ -3,18 +3,18 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=Ejemplo_13
+ProjectName            :=Ejemplo_Pilas
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :=C:/Users/dongyao/Documents/Documents
-ProjectPath            :=C:/Users/dongyao/Documents/Documents/Ejemplo_13
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Ejemplo_13
+ProjectPath            :=C:/Users/dongyao/Documents/Documents/Ejemplo_Pilas
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Ejemplo_Pilas
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=dongyao
-Date                   :=10/5/2023
+Date                   :=10/6/2023
 CodeLitePath           :="C:/Program Files/CodeLite"
 MakeDirCommand         :=mkdir
 LinkerName             :=C:/msys64/clang64/bin/g++.exe
@@ -64,7 +64,7 @@ AS       := C:/msys64/clang64/bin/as.exe
 ## User defined environment variables
 ##
 CodeLiteDir:=C:\Program Files\CodeLite
-Objects0=$(IntermediateDirectory)/Persona.cpp$(ObjectSuffix) $(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
+Objects0=$(IntermediateDirectory)/NodoPila.cpp$(ObjectSuffix) $(IntermediateDirectory)/clasePila.cpp$(ObjectSuffix) $(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
 
 
 
@@ -95,13 +95,18 @@ PreBuild:
 ##
 ## Objects
 ##
-$(IntermediateDirectory)/Persona.cpp$(ObjectSuffix): Persona.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/dongyao/Documents/Documents/Ejemplo_13/Persona.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Persona.cpp$(ObjectSuffix) $(IncludePath)
-$(IntermediateDirectory)/Persona.cpp$(PreprocessSuffix): Persona.cpp
-	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Persona.cpp$(PreprocessSuffix) Persona.cpp
+$(IntermediateDirectory)/NodoPila.cpp$(ObjectSuffix): NodoPila.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/dongyao/Documents/Documents/Ejemplo_Pilas/NodoPila.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/NodoPila.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/NodoPila.cpp$(PreprocessSuffix): NodoPila.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/NodoPila.cpp$(PreprocessSuffix) NodoPila.cpp
+
+$(IntermediateDirectory)/clasePila.cpp$(ObjectSuffix): clasePila.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/dongyao/Documents/Documents/Ejemplo_Pilas/clasePila.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/clasePila.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/clasePila.cpp$(PreprocessSuffix): clasePila.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/clasePila.cpp$(PreprocessSuffix) clasePila.cpp
 
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/dongyao/Documents/Documents/Ejemplo_13/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/dongyao/Documents/Documents/Ejemplo_Pilas/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 

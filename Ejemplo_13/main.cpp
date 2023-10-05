@@ -1,7 +1,26 @@
-#include <stdio.h>
-#include <Persona.hpp>
-int main(int argc, char **argv)
-{
-	Persona *Maria= new Persona(18);
-    //genera 10 numero aleatorio y en un bucle con 10 persona de distinto edad
+#include <h Persona.hpp>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+int main(int argc, char **argv){
+	int n=10;
+    int a[n];
+    cout <<"Array de edades ordenado:" <<endl;
+    for(int i=0; i<n; ++i){
+        a[i] = i+18;    //18->27
+        cout <<a[i] <<" ";
+    }
+    cout <<endl<<endl;
+    cout<<"Array de edades desordenado:"<<endl;
+    random_shuffle(a, a + n);
+    for(int i = 0; i < n; ++i)
+        cout << a[i] <<" ";
+    cout << endl<<endl;
+    for(int i = 0; i < n; ++i){
+        Persona* p=new Persona(a[i]);
+        p->mostrar();
+    }
+    cout << endl;
+	return 0;
 }

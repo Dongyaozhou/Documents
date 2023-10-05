@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Project Name="Ejemplo_02" Version="11000" InternalType="Console">
+<CodeLite_Project Name="Ejemplo_Pilas" Version="11000" InternalType="Console">
   <Description/>
   <Dependencies/>
   <Settings Type="Executable">
@@ -93,8 +93,14 @@
     </Configuration>
   </Settings>
   <VirtualDirectory Name="src">
+    <VirtualDirectory Name="clase Pila">
+      <File Name="clasePila.cpp"/>
+      <File Name="clasePila.hpp"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="clase NodoPila">
+      <File Name="NodoPila.cpp"/>
+      <File Name="NodoPila.hpp"/>
+    </VirtualDirectory>
     <File Name="main.cpp"/>
   </VirtualDirectory>
-  <Dependencies Name="Debug"/>
-  <Dependencies Name="Release"/>
 </CodeLite_Project>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Project Name="Ejemplo_02" Version="11000" InternalType="Console">
+<CodeLite_Project Name="Ejemplo_Cola" Version="11000" InternalType="Console">
   <Description/>
   <Dependencies/>
   <Settings Type="Executable">
@@ -93,8 +93,14 @@
     </Configuration>
   </Settings>
   <VirtualDirectory Name="src">
-    <File Name="main.cpp"/>
+    <VirtualDirectory Name="clase Cola">
+      <File Name="Cola.cpp"/>
+      <File Name="Cola.hpp"/>
+      <File Name="main.cpp"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="clase NodoCola">
+      <File Name="NodoCola.cpp"/>
+      <File Name="NodoCola.hpp"/>
+    </VirtualDirectory>
   </VirtualDirectory>
-  <Dependencies Name="Debug"/>
-  <Dependencies Name="Release"/>
 </CodeLite_Project>
