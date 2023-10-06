@@ -43,7 +43,7 @@ int Cola::eliminar(){
 int Cola::verPrimero(){
     return primero->valor;
 }
-Cola::Cola(){
+Cola::~Cola(){
     while(primero)
         eliminar();
 }

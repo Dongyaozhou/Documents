@@ -94,8 +94,8 @@
   </Settings>
   <VirtualDirectory Name="src">
     <VirtualDirectory Name="clase Pila">
-      <File Name="clasePila.cpp"/>
-      <File Name="clasePila.hpp"/>
+      <File Name="Pila.hpp"/>
+      <File Name="Pila.cpp"/>
     </VirtualDirectory>
     <VirtualDirectory Name="clase NodoPila">
       <File Name="NodoPila.cpp"/>

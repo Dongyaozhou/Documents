@@ -19,13 +19,13 @@ int main(int argc, char **argv)
     cola.mostrar();
     cola.insertar(5);
     cola.mostrar();
-    cola.insertar():
+    cola.eliminar();
     cola.mostrar();
-    cola.insertar():
+    cola.eliminar();
     cola.mostrar();
-    cola.insertar();
+    cola.eliminar();
     cola.mostrar();
-    cola.insertar();
+    cola.eliminar();
     cola.mostrar();
     
 	return 0;

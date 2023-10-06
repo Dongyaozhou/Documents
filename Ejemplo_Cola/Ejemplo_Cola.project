@@ -93,10 +93,10 @@
     </Configuration>
   </Settings>
   <VirtualDirectory Name="src">
+    <File Name="main.cpp"/>
     <VirtualDirectory Name="clase Cola">
       <File Name="Cola.cpp"/>
       <File Name="Cola.hpp"/>
-      <File Name="main.cpp"/>
     </VirtualDirectory>
     <VirtualDirectory Name="clase NodoCola">
       <File Name="NodoCola.cpp"/>

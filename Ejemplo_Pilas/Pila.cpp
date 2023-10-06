@@ -10,7 +10,7 @@ void Pila::insertar(int v){
     ultimo = nuevo;
     longitud++;
 }
-int pila::extraer(){
+int Pila::extraer(){
     pnodoPila nodo;
     int v;
     if(!ultimo)
@@ -22,7 +22,7 @@ int pila::extraer(){
     delete nodo;
     return v;
 }
-int pila::cima(){
+int Pila::cima(){
     pnodoPila nodo;
     if(!ultimo)
         return 0;
