@@ -1,4 +1,4 @@
-#include "h Persona.hpp"
+#include "Persona.hpp"
 Persona::Persona(int edad){
     this->edad = edad;
     this->genero = (rand() % 2);

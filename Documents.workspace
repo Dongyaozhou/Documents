@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Documents" Database="" Version="10000">
-  <Project Name="HelloWorld" Path="Documents/Documents.project" Active="No"/>
   <VirtualDirectory Name="Ejemplo_sesion_1">
     <Project Name="Ejemplo_1" Path="Ejemplo_01/Ejemplo_01.project" Active="No"/>
     <Project Name="Ejemplo_2" Path="Ejemplo_02/Ejemplo_02.project" Active="No"/>
@@ -10,6 +9,7 @@
     <Project Name="Ejemplo_6" Path="Ejemplo_06/Ejemplo_06.project" Active="No"/>
     <Project Name="Ejemplo_7" Path="Ejemplo_07/Ejemplo_07.project" Active="No"/>
     <Project Name="Ejemplo_8" Path="Ejemplo_08/Ejemplo_08.project" Active="No"/>
+    <Project Name="HelloWorld" Path="Documents/Documents.project" Active="No"/>
   </VirtualDirectory>
   <VirtualDirectory Name="Ejemplo_sesion_2">
     <Project Name="Paso_Por_Referencia" Path="Paso_Por_Referencia/Paso_Por_Referencia.project" Active="No"/>
@@ -23,9 +23,12 @@
     <Project Name="Ejemplo_13" Path="Ejemplo_13/Ejemplo_13.project" Active="No"/>
     <Project Name="Ejemplo_13" Path="Ejemplo_13/Ejemplo_13.project" Active="No"/>
     <Project Name="Ejemplo_Pilas" Path="Ejemplo_Pilas/Ejemplo_Pilas.project" Active="No"/>
-    <Project Name="Ejemplo_Cola" Path="Ejemplo_Cola/Ejemplo_Cola.project" Active="Yes"/>
+    <Project Name="Ejemplo_Cola" Path="Ejemplo_Cola/Ejemplo_Cola.project" Active="No"/>
   </VirtualDirectory>
   <Project Name="Ejemplo_02" Path="Ejemplo_02/Ejemplo_02.project" Active="No"/>
+  <VirtualDirectory Name="Proyecto">
+    <Project Name="Proyecto01" Path="Proyecto01/Proyecto01.project" Active="Yes"/>
+  </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -57,6 +60,7 @@
       <Project Name="Ejemplo_13" ConfigName="Debug"/>
       <Project Name="Ejemplo_Pilas" ConfigName="Debug"/>
       <Project Name="Ejemplo_Cola" ConfigName="Debug"/>
+      <Project Name="PECLZhouDongyao" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -88,6 +92,7 @@
       <Project Name="Ejemplo_13" ConfigName="Release"/>
       <Project Name="Ejemplo_Pilas" ConfigName="Release"/>
       <Project Name="Ejemplo_Cola" ConfigName="Release"/>
+      <Project Name="PECLZhouDongyao" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

@@ -97,7 +97,7 @@
       <File Name="Persona.cpp"/>
     </VirtualDirectory>
     <VirtualDirectory Name="Header Files">
-      <File Name="h Persona.hpp"/>
+      <File Name="Persona.hpp"/>
     </VirtualDirectory>
     <File Name="main.cpp"/>
   </VirtualDirectory>
