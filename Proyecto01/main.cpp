@@ -1,10 +1,10 @@
-// #include <Gestor.hpp>
+#include <Gestor.hpp>
 #include <iostream>
 using namespace std;
 
 int main(int argc, char** argv)
 {
-    // Gestor gestor;
+    Gestor gestor;
     char opcion;
 
     do {
@@ -12,7 +12,7 @@ int main(int argc, char** argv)
         cout << "\n\t--------------------------------------------------------------"
                 "--------\n";
         cout << "\tPedidos en la pila -> " << 0 /*gestor.PedidosEnPila()*/
-             << "\n\tPedidos en las colas:\n \t\tSala A-> " << 0 /*gestor.PedidosEnSalaA() */ << "\tSala B-> "
+             << "\n\tPedidos en las colas:\n \t\tSala A-> " << 0 /*gestor.PedidosEnSalaA()*/  << "\tSala B-> "
              << 0 /*gestor.PedidosEnSalaB() */ << "\tSala C-> " << 0 /*gestor.PedidosEnSalaC() */ << "\tSala D-> "
              << 0 /*gestor.PedidosEnSalaD()*/
              << " \n\tPedidos en las listas:\n \t\tEstandar-> "
@@ -60,13 +60,13 @@ int main(int argc, char** argv)
         cout << "\tIndique la opcion deseada: ";
         cin >> opcion;
         opcion = toupper(opcion);
-        // system("clear");
+        system("clear");
         system("cls");
 
         switch(opcion) {
 
         case 'A':
-            // gestor.genera12Pedidos();
+            gestor.genera12Pedidos();
             break;
         case 'B':
             // gestor.muestraPedidos();

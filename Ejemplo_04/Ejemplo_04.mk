@@ -3,18 +3,18 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=Ejemplo_4
+ProjectName            :=Ejemplo_04
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
-WorkspacePath          :=C:/Users/dongyao/Documents/Documents
-ProjectPath            :=C:/Users/dongyao/Documents/Documents/Ejemplo_4
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Ejemplo_4
+WorkspacePath          :=C:/Users/dongyao/OneDrive/Documentos/Documents
+ProjectPath            :=C:/Users/dongyao/OneDrive/Documentos/Documents/Ejemplo_04
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Ejemplo_04
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=dongyao
-Date                   :=9/29/2023
+Date                   :=10/27/2023
 CodeLitePath           :="C:/Program Files/CodeLite"
 MakeDirCommand         :=mkdir
 LinkerName             :=C:/msys64/clang64/bin/g++.exe
@@ -29,7 +29,7 @@ OutputSwitch           :=-o
 LibraryPathSwitch      :=-L
 PreprocessorSwitch     :=-D
 SourceSwitch           :=-c 
-OutputDirectory        :=C:/Users/dongyao/Documents/Documents/build-$(WorkspaceConfiguration)/bin
+OutputDirectory        :=C:/Users/dongyao/OneDrive/Documentos/Documents/build-$(WorkspaceConfiguration)/bin
 OutputFile             :=..\build-$(WorkspaceConfiguration)\bin\$(ProjectName).exe
 Preprocessors          :=
 ObjectSwitch           :=-o 
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/dongyao/Documents/Documents/Ejemplo_4/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/dongyao/OneDrive/Documentos/Documents/Ejemplo_04/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 

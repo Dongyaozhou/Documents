@@ -1,15 +1,7 @@
 [{
-  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Gestor.cpp",
-  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
-  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Gestor.cpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Gestor.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Gestor.hpp",
-  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
-  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Gestor.hpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Gestor.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\main.cpp",
-  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
-  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\main.cpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Ejemplo_practica\\main.cpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Ejemplo_practica",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Ejemplo_practica\\main.cpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Ejemplo_practica\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Ejemplo_Pilas\\NodoPila.hpp",
   "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Ejemplo_Pilas",
@@ -46,6 +38,90 @@
   "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Ejemplo_12\\main.cpp",
   "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Ejemplo_12",
   "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Ejemplo_12\\main.cpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Ejemplo_12\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Gestor.hpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Gestor.hpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Gestor.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Lista.hpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Lista.hpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Lista.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoArbol.hpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoArbol.hpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoArbol.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoPila.hpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoPila.hpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoPila.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Pedido.hpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Pedido.hpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Pedido.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoLista.hpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoLista.hpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoLista.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Pila.hpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Pila.hpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Pila.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Cola.hpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Cola.hpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Cola.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Gestor.cpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Gestor.cpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Gestor.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Cola.cpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Cola.cpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Cola.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoArbol.cpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoArbol.cpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoArbol.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Arbol.hpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Arbol.hpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Arbol.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Arbol.cpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Arbol.cpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Arbol.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Lista.cpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Lista.cpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Lista.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoCola.cpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoCola.cpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoCola.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\main.cpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\main.cpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Pedido.cpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Pedido.cpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Pedido.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Pila.cpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Pila.cpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\Pila.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoCola.hpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoCola.hpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoCola.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoLista.cpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoLista.cpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoLista.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoPila.cpp",
+  "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoPila.cpp -o C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Proyecto01\\NodoPila.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Ejemplo_11\\main.cpp",
   "directory": "C:\\Users\\dongyao\\OneDrive\\Documentos\\Documents\\Ejemplo_11",
